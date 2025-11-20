@@ -1,4 +1,4 @@
-Features
+Features:
 Checks password length
 Detects uppercase & lowercase letters
 Detects digits
@@ -7,6 +7,6 @@ Gives a strength rating: Weak, Moderate, or Strong
 Provides suggestions for improvement
 
 
-Requirements
+Requirements:
 Python 3.x
 
